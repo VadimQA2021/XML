@@ -1,0 +1,7 @@
+<Course program>
+	<Basic theory>What is testing, bug reports, documentation, types, methods, areas of testing, etc.</Basic theory>
+	<HTTP>Request Methods, Response codes, Query Structures</HTTP>
+	<client-server architecture>what it is</client-server architecture>
+	<JSON, XML>what is it what structure does it have</JSON, XML>
+	<API>testing via postman</API>
+</Course program>
